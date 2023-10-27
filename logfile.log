@@ -1,0 +1,29 @@
+[2023-10-26 22:29:59] [ ERROR] [OdontologoIDaoH2:39] Columna "NUMERODEMATRICULA" no encontrada
+Column "NUMERODEMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (NOMBRE, APELLIDO, NUMERODEMATRICULA) VALUES (?, ?, ?) [42122-224]
+[2023-10-26 22:29:59] [ INFO ] [OdontologoIDaoH2:44] Tuvimos un problema
+[2023-10-26 22:29:59] [ ERROR] [OdontologoIDaoH2:45] Columna "NUMERODEMATRICULA" no encontrada
+Column "NUMERODEMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (NOMBRE, APELLIDO, NUMERODEMATRICULA) VALUES (?, ?, ?) [42122-224]
+[2023-10-26 22:31:10] [ ERROR] [OdontologoIDaoH2:39] Columna "NUMERODEMATRICULA" no encontrada
+Column "NUMERODEMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (NOMBRE, APELLIDO, NUMERODEMATRICULA) VALUES (?, ?, ?) [42122-224]
+[2023-10-26 22:31:11] [ INFO ] [OdontologoIDaoH2:44] Tuvimos un problema
+[2023-10-26 22:31:11] [ ERROR] [OdontologoIDaoH2:45] Columna "NUMERODEMATRICULA" no encontrada
+Column "NUMERODEMATRICULA" not found; SQL statement:
+INSERT INTO ODONTOLOGOS (NOMBRE, APELLIDO, NUMERODEMATRICULA) VALUES (?, ?, ?) [42122-224]
+[2023-10-26 22:32:48] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo: Odontologo{id=3, nombre='Fabian', apellido='Mardones', numeroDeMatricula=186146611}
+[2023-10-26 22:34:32] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo:  id : 3 - nombre='Fabian' - apellido='Mardones' -numeroDeMatricula=186146611
+[2023-10-26 22:38:11] [ INFO ] [OdontologoIDaoH2:76] Se encontraron los siguientes Odontologos: [ id : 1 - nombre='JOSE' - apellido='LANZA' - numeroDeMatricula=123456789,  id : 2 - nombre='FABIAN' - apellido='MARDONES' - numeroDeMatricula=358546]
+[2023-10-26 22:40:28] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo:  id : 3 - nombre='Fabian' - apellido='Mardones' - numeroDeMatricula=186146611
+[2023-10-26 22:40:28] [ INFO ] [OdontologoIDaoH2:76] Se encontraron los siguientes Odontologos: [ id : 1 - nombre='JOSE' - apellido='LANZA' - numeroDeMatricula=123456789,  id : 2 - nombre='FABIAN' - apellido='MARDONES' - numeroDeMatricula=358546,  id : 3 - nombre='Fabian' - apellido='Mardones' - numeroDeMatricula=186146611]
+[2023-10-26 22:44:11] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo:  id : 3 - nombre='Jose' - apellido='Lanza' - numeroDeMatricula=1234567
+[2023-10-26 22:48:21] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo:  id : 3 - nombre='Fabian' - apellido='Mardones' - numeroDeMatricula=186146611
+[2023-10-26 22:48:21] [ INFO ] [OdontologoIDaoMemory:25] Odontologo registrado id : 1 - nombre='Fabian' - apellido='Mardones' - numeroDeMatricula=123456789
+[2023-10-26 22:48:21] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo:  id : 4 - nombre='Jose' - apellido='Lanza' - numeroDeMatricula=1234567
+[2023-10-26 22:52:29] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo en DB H2 :  id : 3 - nombre='Jose' - apellido='Lanza' - numeroDeMatricula=1234567
+[2023-10-26 22:52:29] [ INFO ] [OdontologoIDaoMemory:25] Odontologo registrado en memory id : 1 - nombre='Fabian' - apellido='Mardones' - numeroDeMatricula=123456789
+[2023-10-26 22:52:29] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo en DB H2 :  id : 4 - nombre='Fabian' - apellido='Mardones' - numeroDeMatricula=186146611
+[2023-10-26 22:53:38] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo en DB H2 :  id : 3 - nombre: 'Jose' - apellido: 'Lanza' - numeroDeMatricula: 1234567
+[2023-10-26 22:53:38] [ INFO ] [OdontologoIDaoMemory:25] Odontologo registrado en memory:  id : 1 - nombre: 'Fabian' - apellido: 'Mardones' - numeroDeMatricula: 123456789
+[2023-10-26 22:53:38] [ INFO ] [OdontologoIDaoH2:36] Se ha registrado el odontologo en DB H2 :  id : 4 - nombre: 'Fabian' - apellido: 'Mardones' - numeroDeMatricula: 186146611
